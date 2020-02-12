@@ -1,0 +1,64 @@
+
+Exception caught at 2019-12-14 09:46:40.404104:
+Traceback (most recent call last):
+  File "synthesis.py", line 60, in <module>
+    main()
+  File "synthesis.py", line 40, in main
+    build_success = build.build_all()
+  File "U:\CPRE381\ProjC\scripts\quartus\build.py", line 26, in build_all
+    cwd='QuartusWork/'
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 323, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+
+Exception caught at 2019-12-14 09:46:45.529874:
+Traceback (most recent call last):
+  File "synthesis.py", line 60, in <module>
+    main()
+  File "synthesis.py", line 40, in main
+    build_success = build.build_all()
+  File "U:\CPRE381\ProjC\scripts\quartus\build.py", line 26, in build_all
+    cwd='QuartusWork/'
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 323, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+
+Exception caught at 2019-12-14 09:47:02.391697:
+Traceback (most recent call last):
+  File "synthesis.py", line 60, in <module>
+    main()
+  File "synthesis.py", line 40, in main
+    build_success = build.build_all()
+  File "U:\CPRE381\ProjC\scripts\quartus\build.py", line 26, in build_all
+    cwd='QuartusWork/'
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 323, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+
+Exception caught at 2019-12-14 09:47:35.861723:
+Traceback (most recent call last):
+  File "synthesis.py", line 60, in <module>
+    main()
+  File "synthesis.py", line 40, in main
+    build_success = build.build_all()
+  File "U:\CPRE381\ProjC\scripts\quartus\build.py", line 26, in build_all
+    cwd='QuartusWork/'
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 323, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "C:\Program Files (x86)\Python37-32\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] The system cannot find the file specified

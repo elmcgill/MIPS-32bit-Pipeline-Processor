@@ -1,0 +1,40 @@
+
+#
+# CprE 381 Generated Quartus Settings File
+#
+
+set_global_assignment -name FAMILY "Cyclone IV E"
+set_global_assignment -name DEVICE EP4CE115F29C7
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 18.0.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "19:07:08  JANUARY 28, 2019"
+set_global_assignment -name LAST_QUARTUS_VERSION "18.0.0 Standard Edition"
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name TOP_LEVEL_ENTITY MIPS_Processor
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/ALU32Bit.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/ALUBit0to30.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/ALUBit31.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/EXMEMReg.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/FullALU.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/IDEXReg.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/IFIDReg.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/MEMWBReg.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/MIPS_Processor.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/control.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/decoder32to5.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/dff.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/extender.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/forward_unit.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/hazard_detect.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/mem.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/mux32BitArray.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/mux32to1.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/mux_df.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/new 1.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/reg.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/register32.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/registerFile.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/shifter.vhd"
+set_global_assignment -name VHDL_FILE "U:/CPRE381/ProjC/ModelSimWork/src/tb_pipelineRegisters.vhd"
